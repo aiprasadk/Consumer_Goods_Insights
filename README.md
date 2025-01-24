@@ -1,14 +1,14 @@
 # Consumer_Goods_Insights
-# Ad_Hoc_Requests-SQL (📄 Codebasics Resume Project challenge -4)
+# Ad_Hoc_Requests-SQL (Resume Project challenge -4)
 
 ### 👋Introduction
 
 Domain:  Consumer Goods | Function: Executive Management
-Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
+Atliq Hardware (imaginary company) is one of India's leading computer hardware producers and has expanded in other countries too.
 
 ### 📑 Problem Statement:
 
-The management at Atliq Hardwares realized they lack actionable insights to make fast and smart data-informed decisions. To address this, the company provided 10 ad hoc business requests requiring analysis and insight.
+The management at Atliq Hardware realized they lacked actionable insights to make fast and smart data-informed decisions. The company provided 10 ad hoc business requests requiring analysis and insight to address this.
 
 
 ### 📝 Project Objective:
